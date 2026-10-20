@@ -1,3 +1,5 @@
+![Stockatomics, financial data for the physical economy](og-stockatomics.jpg)
+
 # Stockatomics
 
 Stockatomics is a financial data platform for the physical economy. It builds monthly benchmark prices for critical minerals and the components behind AI data centers, power grids, electric vehicles, batteries, defence and robotics, and links each one to the listed companies that make and buy it, giving investors and analysts a view of the supply chain behind the stocks they research.
